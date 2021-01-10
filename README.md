@@ -1,2 +1,2 @@
-# -renciKay-t
+# OgrenciKayit
 Öğrenci Kayıt Programı
